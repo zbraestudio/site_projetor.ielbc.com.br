@@ -1,0 +1,21 @@
+{
+  "name": "site_projetor.ielbc.com.br",
+  "homepage": "https://github.com/zbraestudio/site_projetor.ielbc.com.br",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "fancybox": "^2.1.5",
+    "jquery-simple-context-menu": "https://github.com/joewalnes/jquery-simple-context-menu.git#^1.3.2",
+    "rhinoJS": "*",
+    "cycle": "https://github.com/malsup/cycle.git#^3.0.3"
+  }
+}
